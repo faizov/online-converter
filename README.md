@@ -1,3 +1,5 @@
+Попытка сделать онлайн конвертер. На данный момент сделать для крипты, в будущем для разных валют.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
